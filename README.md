@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=venom&color=F00202&height=300&section=header&text=Ha%20rim&fontSize=90&fontColor=fff" />
 
-  <h1>📚 STACKS</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SLOW+STARTER;KEEP+GOING)](https://git.io/typing-svg)
   <br>
 
   <!-- Frontend -->
@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
   <br><br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SLOW+STARTER;KEEP+GOING)](https://git.io/typing-svg)
+
   <!-- Contact -->
+  <a href="https://kittyyakki93@gmail.com">
   <img src="https://img.shields.io/badge/kittyyakki93@gmail.com-blue?style=flat&logo=gmail">
+  </a>
   <img src="https://img.shields.io/badge/GitHub-kittyyakki93-black?style=flat&logo=github">
   <br>
   <a href="https://kittyyakki.tistory.com">
