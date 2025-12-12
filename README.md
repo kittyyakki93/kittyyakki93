@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
   <br><br><br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+keep+going+own+way;Ignoring+all+bad+sprits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SLOW+STARTER;KEEP+GOING)](https://git.io/typing-svg)
   <!-- Contact -->
   <img src="https://img.shields.io/badge/kittyyakki93@gmail.com-blue?style=flat&logo=gmail">
   <img src="https://img.shields.io/badge/GitHub-kittyyakki93-black?style=flat&logo=github">
