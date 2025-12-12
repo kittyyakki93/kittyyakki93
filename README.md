@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=F00202&height=300&section=header&text=HIGH%20LUCK&fontSize=90&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=F00202&height=300&section=header&text=Ha%20rim&fontSize=90&fontColor=fff" />
 
   <h1>📚 STACKS</h1>
   <br>
