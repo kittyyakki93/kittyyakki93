@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=venom&color=F00202&height=300&section=header&text=Ha%20rim&fontSize=90&fontColor=fff" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SLOW+STARTER;KEEP+GOING)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SLOW+STARTER+KEEP+GOING;SLOW+TEMPO+KEEP+RUNNING)](https://git.io/typing-svg)
   <br>
 
   <!-- Frontend -->
